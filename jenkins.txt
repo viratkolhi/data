@@ -1,0 +1,21 @@
+                    # JENKINS #
+
+1) Jenkins is an open-source project written in JAVA that runs on windows ,macos   and other unix-like operating systems.
+
+2) It is a free, (Community Supported) and might be your first choice tool for 
+   CI.
+
+3) Jenkins Automate the entire software Development life cycle.
+
+4) Jenkins Was orginally developed by Sun-Microsystems in 2004 under the name
+   HUDSON (hudson nam ka Enterprises version PROJECT tha).
+
+5) The project was later named JENKINS when oracle bought microsystem. 
+
+6) It can run on any major platform without any compatibility issues.
+
+7) Whenever Developer write code we integrate all that code of all developers at   that point of time and we build test and deliver / deploy to the client.
+   This process is called as CI/CD (jenkins helps us to Achieve This).
+
+8) Because of CI, now bugs(ERROR)  will be reported fast and get rectified fast,
+   So the Entire Software Development Happens Fast.     
